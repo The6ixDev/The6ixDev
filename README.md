@@ -25,10 +25,10 @@
 `MySQL`, `PostgreSQL`, `SQLite`, `BigQuery`
 
 ### 🧪 Tools & Platforms
-`Git`, `GitHub`, `Postman`, `Pipenv`, `Docker (basic)`, `Jira`, `Linux CLI`, `GCP`, `Wireshark`, `Bash`, `PowerShell`, `VS Code`, `PyCharm`, `AnyDesk`, `OTRS`, `ServiceNow`
+`Git`, `GitHub`, `Postman`, `Pipenv`, `Docker (basic)`, `Jira`, `Linux CLI`, `GCP`, `Wireshark`, `Bash`, `PowerShell`, `VS Code`, `PyCharm`, `AnyDesk`, `OTRS`
 
 ### 🚀 Currently Learning
-`React (Hooks/State)`, `FastAPI`, `TypeScript`, `Webpack`, `CI/CD`, `DevOps Basics`
+`React (Hooks/State)`, `FastAPI`, `CI/CD`, `DevOps Basics`
 
 ---
 
