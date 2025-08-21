@@ -63,21 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The6ixDev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Currently Seeking
-
-🎯 **Open to Backend Developer, Automation, and Python Internship Roles (Fall 2025)**
-
-Looking for opportunities where I can contribute to backend systems, improve infrastructure, and build cool tools with Python, Flask, and automation stacks.
-
----
 
 ## 🤝 Let's Connect
 
