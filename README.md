@@ -72,7 +72,7 @@
 - Saves output to CSV, viewable in a React frontend using `PapaParse`
 - Features “Scrape Jobs” and “Download CSV” buttons
 - Tech: `Flask`, `React`, `CSV`, `HTML/CSS`, `Papaparse`
-- 🔗 [View Repository](https://github.com/The6ixDev/remoteok-scraper)
+- 🔗 [View Repository](https://github.com/The6ixDev/remoteok-job-scraper)
 
 ### 📌 Job Tracker API (Flask + SQLite)
 - Built a REST API to manage job applications
