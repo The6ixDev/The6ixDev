@@ -5,12 +5,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 BTech in Software Engineering – McMaster University (2024)
-- 🎓 BSc in Information Technology – York University (Dean's Honour Roll)
+- 🎓 BTech in Software Engineering
+- 🎓 BA in Information Technology 
 - 🧠 Focused on backend development, automation scripting, and API engineering
 - 💡 Passionate about writing robust, testable, and secure Python code for real-world systems
 - ⚡ Continuously learning cloud practices, frontend tooling, and ML foundations
-- 📫 Email: [hamidjalouee@gmail.com](mailto:hamidjalouee@gmail.com)
 
 ---
 
@@ -35,7 +34,7 @@
 
 ## 💼 Work Experience
 
-### Software Engineer – Mehraeen Hospital (May 2023 – May 2024)
+### Software Engineer 
 - Developed scalable RESTful APIs using Django and Spring Boot
 - Integrated MySQL for performance, used Pipenv for environment control
 - Automated UI and regression tests with Selenium, PyUnit, and PyTest
@@ -43,24 +42,20 @@
 - Implemented secure authentication and API authorization
 - Authored developer-friendly documentation and conducted peer code reviews
 
-### Support Analyst – Mehraeen Hospital (2022 – 2023)
+### Support Analyst 
 - Delivered L1/L2 IT support across departments, triaging incidents and scripting fixes
 - Automated log parsing and issue reporting with Python
 - Authored and updated internal knowledge base documents
 - Tools: Jira, OTRS, Bash, PowerShell, Wireshark, MFA systems, CLI
 
-### Administrative Assistant – Hitech Electric (2019 – 2021)
-- Handled structured document management using Google Sheets and Excel
-- Improved digital findability with naming conventions and standardized folders
-
-### UI/UX Collaborator – Meraki Design
+### UI/UX Collaborator 
 - Built interactive widget designs and collaborated on user flows with devs
 
 ---
 
 ## 🔬 Courses & Skills Acquired
 
-### 📘 Python Back-End Programming (Mosh Hamedani Course)
+### 📘 Python Back-End Programming 
 - Core Python: Data types, control flow, functions, classes, modules, file I/O
 - Libraries: `random`, `math`, `datetime`, `collections`, `sys`, `os`, `json`, `time`
 - Environment: `pip`, `pipenv`, `.env` management
