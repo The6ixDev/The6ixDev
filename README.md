@@ -95,24 +95,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The6ixDev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Open to Opportunities
-
-💼 **Available for Fall 2025 Internships & Junior Roles**  
-Looking to work on:
-- Backend/API development with Python or Java
-- Automation/testing engineering (Selenium, PyTest, Postman)
-- DevOps scripting and deployment on Linux-based systems
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
