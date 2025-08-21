@@ -22,7 +22,7 @@
 `Django`, `Flask`, `Spring Boot`, `Hibernate`, `JUnit`, `Selenium`, `PyTest`, `PyUnit`, `PyPDF2`, `openpyxl`, `BeautifulSoup`, `Bootstrap`, `Pandas`, `NumPy`, `scikit-learn`
 
 ### 🗄️ Databases
-`MySQL`, `PostgreSQL`, `SQLite`, `BigQuery`
+`MySQL`, `PostgreSQL`, `SQLite`
 
 ### 🧪 Tools & Platforms
 `Git`, `GitHub`, `Postman`, `Pipenv`, `Docker (basic)`, `Jira`, `Linux CLI`, `GCP`, `Wireshark`, `Bash`, `PowerShell`, `VS Code`, `PyCharm`, `AnyDesk`, `OTRS`
