@@ -78,7 +78,7 @@
 - Built a REST API to manage job applications
 - CRUD operations using `Flask`, `SQLAlchemy`, and `Postman` testing
 - Structured codebase with proper endpoint handling and SQLite backend
-- 🔗 [View Repository](https://github.com/The6ixDev/job-tracker-api)
+- 🔗 [View Repository](https://github.com/The6ixDev/job-tracker)
 
 ### 📌 Telegram Alert Smart Switch (IoT + Python)
 - Automated water level detection system using MK2253 relay, Arduino, ESP8266
